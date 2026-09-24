@@ -1,0 +1,5 @@
+streamlit
+altair
+tensorflow
+pandas
+numpy
